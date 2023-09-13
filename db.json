@@ -1,0 +1,97 @@
+{
+  "incomes": [
+    {
+      "name": "Apple",
+      "description": "Project",
+      "amount": "32458",
+      "time": "17/03/2023 12:54:29",
+      "id": "3"
+    },
+    {
+      "name": "Vega IT",
+      "description": "Project",
+      "amount": "11500",
+      "time": "17/03/2023 12:54:38",
+      "id": "4"
+    },
+    {
+      "name": "Dell",
+      "description": "Project",
+      "amount": "24237",
+      "time": "17/03/2023 13:21:37",
+      "id": "5"
+    },
+    {
+      "name": "IMB",
+      "description": "Project",
+      "amount": "64738",
+      "time": "17/03/2023 12:54:56",
+      "id": "6"
+    },
+    {
+      "name": "Apple",
+      "description": "Project",
+      "amount": "23334",
+      "time": "17/03/2023 12:55:01",
+      "id": "8"
+    },
+    {
+      "name": "Vega IT",
+      "description": "Project",
+      "amount": "567567",
+      "time": "17/03/2023 12:55:17",
+      "id": "9"
+    },
+    {
+      "name": "Microsoft",
+      "description": "Project",
+      "amount": "5000",
+      "time": "17/03/2023 12:55:12",
+      "id": "11"
+    },
+    {
+      "name": "AMD",
+      "description": "Project",
+      "amount": "1231",
+      "time": "17/03/2023 12:55:23",
+      "id": "13"
+    },
+    {
+      "name": "Dell",
+      "description": "Project",
+      "amount": "403475",
+      "time": "17/03/2023 13:21:48",
+      "id": "15"
+    },
+    {
+      "name": "AMD",
+      "description": "Project",
+      "amount": "5000",
+      "time": "17/03/2023 09:17:11",
+      "id": ":r3:"
+    }
+  ],
+  "expenses": [
+    {
+      "name": "Taxes",
+      "description": "Income Tax",
+      "amount": "22223",
+      "time": "17/03/2023 12:55:38",
+      "id": "12"
+    },
+    {
+      "name": "Marketing",
+      "description": "Company Marketing",
+      "amount": "13000",
+      "time": "17/03/2023 12:55:45",
+      "id": "14"
+    },
+    {
+      "name": "Gigatron",
+      "description": "Monitors",
+      "amount": "10000",
+      "time": "17/03/2023 09:16:05",
+      "id": ":r3:"
+    }
+  ]
+}
